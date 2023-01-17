@@ -1,0 +1,9 @@
+body {
+    width: 100%;
+}
+
+.col {
+    background-color: aquamarine;
+    margin: 5px;
+    border-radius: 10px;
+}
